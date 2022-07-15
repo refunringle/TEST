@@ -10,3 +10,5 @@ for i in range (0,n):
     else:
         print(a[i])
 print("refun")
+
+print("all done")
