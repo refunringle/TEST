@@ -11,3 +11,10 @@ for i in range (0,n):
         print(a[i])
 
 print("all done")
+
+
+
+
+
+
+print("macha sunday entha paripadi..??")
