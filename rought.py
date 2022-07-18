@@ -9,12 +9,7 @@ for i in range (0,n):
         break
     else:
         print(a[i])
+print("refun")
 
 print("all done")
-
-
-
-
-
-
 print("macha sunday entha paripadi..??")
